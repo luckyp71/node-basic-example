@@ -1,4 +1,4 @@
-// Read .txt file using node file system
+// Read file using node file system
 var http = require('http');
 var fs = require('fs');
 
